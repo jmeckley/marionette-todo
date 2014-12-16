@@ -1,0 +1,5 @@
+C:\Users\jmeckley\Documents\Visual Studio 2013\Projects\marionette-todo\Chutzpah.Spike\bin\Debug\Chutzpah.Spike.dll
+C:\Users\jmeckley\Documents\Visual Studio 2013\Projects\marionette-todo\Chutzpah.Spike\bin\Debug\Chutzpah.Spike.pdb
+C:\Users\jmeckley\Documents\Visual Studio 2013\Projects\marionette-todo\Chutzpah.Spike\obj\Debug\Chutzpah.Spike.csprojResolveAssemblyReference.cache
+C:\Users\jmeckley\Documents\Visual Studio 2013\Projects\marionette-todo\Chutzpah.Spike\obj\Debug\Chutzpah.Spike.dll
+C:\Users\jmeckley\Documents\Visual Studio 2013\Projects\marionette-todo\Chutzpah.Spike\obj\Debug\Chutzpah.Spike.pdb
